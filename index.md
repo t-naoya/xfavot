@@ -1,4 +1,3 @@
-# <center> Cross-modal face and voice style transfer</center>
 <center>Naoya Takahashi, Mayank K. Singh, Yuki Mitsufuji</center>
 
 # Introduction
